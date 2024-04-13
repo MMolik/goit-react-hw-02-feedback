@@ -1,0 +1,17 @@
+.container {
+  font-size: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.text,
+.total,
+.good {
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+.numbers {
+  font-size: 20px;
+  padding-left: 5px;
+}
